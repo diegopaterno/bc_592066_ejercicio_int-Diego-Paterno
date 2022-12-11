@@ -1,5 +1,11 @@
-# Proyecto integrador - Educacion IT
+# Pasos para levantar el ambiente
 
-# github:  https://github.com/diegopaterno/bc_592066_ejercicio_int-Diego-Paterno
+1. Bajar el zip
 
-# netlify:  https://vocal-lily-654e43.netlify.app/#inicio
+2. Copian .env.example
+
+3. Lo renombran a .env
+
+4. Le agregan el puerto. PORT=8080
+
+5. npm run dev
